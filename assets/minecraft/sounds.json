@@ -1,0 +1,279 @@
+{
+    "block.wooden_door.open": {
+        "replace": true,
+        "sounds": [
+            "random/creak"
+        ]
+    },
+    "entity.experience_orb.pickup": {
+        "replace": true,
+        "sounds": [
+            "random/newday"
+        ]
+    },
+    "ambient.warped_forest.loop": {
+        "replace": true,
+        "sounds": [
+            "random/heartbeat"
+        ]
+    },
+    "block.bell.use": {
+        "replace": true,
+        "sounds": [
+            "random/monsterfoot"
+        ]
+    },
+    "block.slime.break": {
+        "replace": true,
+        "sounds": [
+            "random/jumpscare"
+        ]
+    },
+    "entity.enderman.scream": {
+        "replace": true,
+        "sounds": [
+            "random/static"
+        ]
+    },
+    "block.wood.fall": {
+        "replace": true,
+        "sounds": [
+            "random/fall"
+        ]
+    },
+    "entity.cow.milk": {
+        "replace": true,
+        "sounds": [
+            "random/mumble1"
+        ]
+    },
+    "block.netherrack.hit": {
+        "replace": true,
+        "sounds": [
+            "random/garbled"
+        ]
+    },
+    "entity.enderdragon.flap": {
+        "replace": true,
+        "sounds": [
+            "random/knock"
+        ]
+    },
+    "block.conduit.activate": {
+        "replace": true,
+        "sounds": [
+            "random/bedhint1"
+        ]
+    },
+    "block.conduit.deactivate": {
+        "replace": true,
+        "sounds": [
+            "random/bedhint2"
+        ]
+    },
+    "block.conduit.ambient.short": {
+        "replace": true,
+        "sounds": [
+            "random/bedhint3"
+        ]
+    },
+    "block.gilded_blackstone.break": {
+        "replace": true,
+        "sounds": [
+            "random/cabinethint1"
+        ]
+    },
+    "block.gilded_blackstone.fall": {
+        "replace": true,
+        "sounds": [
+            "random/cabinethint2"
+        ]
+    },
+    "block.gilded_blackstone.hit": {
+        "replace": true,
+        "sounds": [
+            "random/cabinethint3"
+        ]
+    },
+    "block.gilded_blackstone.place": {
+        "replace": true,
+        "sounds": [
+            "random/hidinghint1"
+        ]
+    },
+    "block.gilded_blackstone.step": {
+        "replace": true,
+        "sounds": [
+            "random/hidinghint2"
+        ]
+    },
+    "block.nether_gold_ore.break": {
+        "replace": true,
+        "sounds": [
+            "random/movehint1"
+        ]
+    },
+    "block.nether_gold_ore.fall": {
+        "replace": true,
+        "sounds": [
+            "random/movehint2"
+        ]
+    },
+    "block.nether_gold_ore.hit": {
+        "replace": true,
+        "sounds": [
+            "random/watchhint1"
+        ]
+    },
+    "block.nether_gold_ore.place": {
+        "replace": true,
+        "sounds": [
+            "random/watchhint2"
+        ]
+    },
+    "block.nether_gold_ore.step": {
+        "replace": true,
+        "sounds": [
+            "random/garbled2"
+        ]
+    },
+    "ambient.basalt_deltas.loop": {
+        "replace": true,
+        "sounds": [
+            "random/introsong"
+        ]
+    },
+    "ambient.basalt_deltas.additions": {
+        "replace": true,
+        "sounds": [
+            "random/tensesong"
+        ]
+    },
+    "ambient.basalt_deltas.mood": {
+        "replace": true,
+        "sounds": [
+            "random/telephonering"
+        ]
+    },
+    "ambient.soul_sand_valley.loop": {
+        "replace": true,
+        "sounds": [
+            "random/telephonering"
+        ]
+    },
+    "ambient.crimson_forest.additions": {
+        "replace": true,
+        "sounds": [
+            "random/enterintro"
+        ]
+    },
+    "block.frogspawn.fall": {
+        "replace": true,
+        "sounds": [
+            "random/brokenidk"
+        ]
+    },
+    "block.sand.fall": {
+        "replace": true,
+        "sounds": [
+            "random/falling"
+        ]
+    },
+    "block.anvil.fall": {
+        "replace": true,
+        "sounds": [
+            "random/floorbreak"
+        ]
+    },
+    "block.anvil.hit": {
+        "replace": true,
+        "sounds": [
+            "random/theatrewalk"
+        ]
+    },
+    "block.anvil.land": {
+        "replace": true,
+        "sounds": [
+            "random/mumble4"
+        ]
+    },
+    "block.anvil.step": {
+        "replace": true,
+        "sounds": [
+            "random/mumble5"
+        ]
+    },
+    "block.roots.break": {
+        "replace": true,
+        "sounds": [
+            "random/shutteropen"
+        ]
+    },
+    "entity.evoker.ambient": {
+        "replace": true,
+        "sounds": [
+            "random/eyesbulb"
+        ]
+    },
+    "entity.iron_golem.step": {
+        "replace": true,
+        "sounds": [
+            "random/footsteps"
+        ]
+    },
+    "entity.spider.step": {
+        "replace": true,
+        "sounds": [
+            "random/slither"
+        ]
+    },
+    "block.roots.place": {
+        "replace": true,
+        "sounds": [
+            "random/shutterclose"
+        ]
+    },
+    "entity.bee.pollinate": {
+        "replace": true,
+        "sounds": [
+            "random/whispers"
+        ]
+    },
+    "entity.bee.sting": {
+        "replace": true,
+        "sounds": [
+            "random/shot"
+        ]
+},
+    "block.metal.break": {
+        "replace": true,
+        "sounds": [
+            "random/correct"
+        ]
+},
+    "block.metal.hit": {
+        "replace": true,
+        "sounds": [
+            "random/wrong"
+        ]
+
+    },
+    "music_disc.blocks": {
+        "replace": true,
+        "sounds": [
+            "random/song1"
+        ]
+    },
+    "music_disc.chirp": {
+        "replace": true,
+        "sounds": [
+            "random/song2"
+        ]
+    },
+    "music_disc.mellohi": {
+        "replace": true,
+        "sounds": [
+            "random/song3"
+        ]
+    }
+}
